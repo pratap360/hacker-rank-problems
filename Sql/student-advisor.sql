@@ -1,1 +1,0 @@
--- i m using postgress sql for this problem 
